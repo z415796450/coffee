@@ -1,0 +1,93 @@
+header .img1 img{
+	width: 145px;
+	margin-left: 46px;
+}
+header ul li{
+	float: left;
+	width: 121px;
+	
+}
+header ul li a{
+	font-size: 20px;
+	display: block;
+	line-height: 74px;
+	text-align: center;
+	color: #333333;
+}
+header ul li a:hover{
+	color: #866961;
+	box-sizing: border-box;
+	border-bottom:6px solid #866961;
+}
+.top{
+	border-bottom: 1px solid #a1a1a1;
+	margin-top: 37px;
+	margin-bottom: 25px;
+}
+.top_left img{
+	width: 2px;
+	vertical-align: bottom;
+}
+.top_left h2{
+	font-size: 16px;
+	display: inline-block;
+}
+.cappuccino{
+	width: 996px;
+	margin: 0 auto;
+}
+.top_left li:first-child{
+	color: #333333;
+}
+.top_left li:last-child{
+	font-size: 12px;
+	color: #c6c6c6;
+}
+.top_right a{
+	font-size: 14px;
+}
+.top_right a:nth-child(1){
+	color: #333333;
+}
+.top_right a:nth-child(4){
+	color: #333333;
+}
+.top_right a:nth-child(2){
+	color: #a1a1a1;
+}
+.top_right a:nth-child(3){
+	color: #a1a1a1;
+}
+.top_right{
+	padding-top: 27px;
+}
+.img2{
+	width: 430px;
+}
+.txt{
+	width: 527px;
+	line-height: 30px;
+	font-size:14px ;
+	text-indent: 2em;
+	text-align: justify;
+}
+.txt .firstp{
+	margin-bottom: 40px;
+}
+footer{
+	margin-top: 40px;
+	height: 80px;
+	background-color:#866961 ;
+	position: relative;
+}
+footer p{
+	position: absolute;
+	left: 68px;
+	top: 42px;
+	color:#ebebeb ;
+}
+.footerpic{
+	width: 145px;
+	position: absolute;
+	left: 850px;
+}

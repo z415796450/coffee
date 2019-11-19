@@ -1,0 +1,31 @@
+.box{
+	width: 798px;
+	margin: 0 auto;
+	text-align: center;
+}
+.box .img1{
+	width: 100%;
+	margin: 60px auto 100px;
+}
+ul li{
+	margin-bottom: 30px;
+}
+h2{
+	font-size: 46px;
+}
+p{
+	font-size: 28px;
+}
+.anjian{
+	width: 346px;
+	height: 44px;
+	margin:76px auto 0px;
+}
+.anjian input{
+	height: 100%;
+	width: 140px;
+	background-color: white;
+	border: 1px solid #333333;
+	border-radius: 22px;
+	outline: none;
+}
